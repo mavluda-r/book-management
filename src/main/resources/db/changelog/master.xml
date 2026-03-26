@@ -1,0 +1,6 @@
+<databaseChangeLog
+  xmlns="https://www.liquibase.org/xml/ns/dbchangelog">
+
+  <include file="/db/changelog/books/202603251916-create_table_books.xml"/>
+
+</databaseChangeLog>
